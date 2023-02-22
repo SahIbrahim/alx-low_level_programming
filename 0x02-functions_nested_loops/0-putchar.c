@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * main - to print putchar
+ * written by tkay
  * return: 0
  */
 int main(void)
